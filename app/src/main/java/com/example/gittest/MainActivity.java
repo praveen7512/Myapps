@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toast.makeText(this,"hello",Toast.LENGTH_SHORT).show();
-
+        Toast.makeText(this,"hello",Toast.LENGTH_SHORT).show();
+        //test bRANCH COMMIT CHANGES BY PRAVEEN
     }
 }
